@@ -9,4 +9,4 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 #Digital Attendance System
 
-#
+#Smartboards instead of whiteboards
