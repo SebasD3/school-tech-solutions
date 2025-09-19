@@ -10,3 +10,7 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 #Digital Attendance System
 
 #Digital boards instead of whiteboards
+
+#Digital suggestion box
+
+#School event tracker
